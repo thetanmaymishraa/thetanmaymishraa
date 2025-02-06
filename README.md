@@ -13,7 +13,6 @@
 
 ### 🤝 Our Team Members:
 - **Aniket Kumar Singh**
-- **Mukta Pankaj**
 - **Aman Chauhan**
 - **Robin Philip**
 
