@@ -34,7 +34,7 @@ A passionate engineering student at **Vellore Institute of Technology, Vellore**
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [thetanmaymishra@gmail.com](mailto:thetanmaymishra@gmail.com)
+- 📧 Email: [thetanmaymishraa@gmail.com](mailto:thetanmaymishra@gmail.com)
 - 📞 Phone: +91 9516727469
 - 🌍 GitHub: [GitHub Portfolio](https://github.com/thetanmaymishraa)
 - 🔗 LinkedIn: [thetanmaymishra](https://linkedin.com/in/thetanmaymishra)
