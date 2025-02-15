@@ -1,35 +1,33 @@
 # Hi 👋, I'm Tanmay Mishra
 
 ## 🚀 About Me
-A passionate engineering student at **Vellore Institute of Technology, Vellore**, dedicated to **robotics, AI, and IoT-based solutions**. I am the **Founder & Team Leader of CropSky**, where we are revolutionizing agriculture through **drone-based crop monitoring systems**.
+I am an engineering student at **Vellore Institute of Technology, Vellore**, with a strong passion for **robotics, artificial intelligence (AI), and the Internet of Things (IoT)**. As the **Founder & Team Leader of CropSky**, I am committed to revolutionizing agriculture through **cutting-edge drone-based crop monitoring solutions**. My work integrates advanced **robotics, AI, and cybersecurity** to develop impactful real-world applications.
 
 ---
 
-## 🔭 Current Work & Research
-- **Founder & Team Leader, CropSky** - Empowering small-scale farmers with drone-based crop health monitoring.
-- **Underground Inspection System** - Developing a **ROS2 & Gazebo-based tunnel inspection robot** for real-time hazard detection.
-- **SCARA Robot Digital Twin** - Simulating robotic arm movements using **ROS2 and Gazebo**.
-- **AI-Powered Cybercrime Detection** - Building an intelligent system to detect cyber threats.
-- **Hardware-Accelerated Network Intrusion Detection System** - Integrating ESP32-based NIDS with **Linux Ubuntu**.
-- **Geofencing for Child Safety** - Researching smart location-based security solutions.
+## 🔭 Current Projects & Research
+- **Founder & Team Leader, CropSky** – Empowering small-scale farmers with **drone-based crop health monitoring**.
+- **Underground Inspection System** – Developing a **ROS2 & Gazebo-based tunnel inspection robot** for real-time hazard detection.
+- **SCARA Robot Digital Twin** – Simulating robotic arm movements using **ROS2 and Gazebo**.
+- **AI-Powered Cybercrime Detection** – Implementing machine learning models to detect and prevent cyber threats.
+- **Hardware-Accelerated Network Intrusion Detection System (NIDS)** – Integrating an **ESP32-based NIDS with Linux Ubuntu** to enhance cybersecurity.
+- **Resume Analysis Web Application** – Developing an **AI-powered tool** for job seekers to assess their resumes against job descriptions.
+- **Geofencing for Child Safety** – Researching and implementing **location-based security solutions** for enhanced child safety.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Skills & Technologies
 - **Artificial Intelligence & Machine Learning**
-- **ROS2 & Gazebo Ignition for Robotics Simulation**
+- **Robotics & Embedded Systems (Arduino, ESP32, Raspberry Pi)**
+- **ROS2 & Gazebo for Simulation & Digital Twins**
 - **Computer Vision with OpenCV & Deep Learning**
-- **Hardware-Accelerated AI for Cybersecurity Applications**
-- **Antenna Design & Wireless Communication Protocols**
+- **IoT & Network Security**
+- **UI/UX Design & Video Editing**
 
 ---
 
-## 💬 Ask Me About
-- **Robotics & Embedded Systems** (Arduino, ESP32, Raspberry Pi)
-- **AI & ML Integration in Real-World Applications**
-- **ROS2 & Gazebo for Simulation & Digital Twins**
-- **IoT & Network Security**
-- **UI/UX Designing & Video Editing**
+## 📄 Research & Collaborations
+I actively collaborate with **professors from VIT Vellore & IIT Madras** on research projects focusing on **AI-driven robotics, cybersecurity, and precision agriculture**.
 
 ---
 
@@ -41,12 +39,7 @@ A passionate engineering student at **Vellore Institute of Technology, Vellore**
 
 ---
 
-## 📄 Research & Collaborations
-I am actively conducting research under **professors from VIT Vellore & IIT Madras**, working on projects in **AI-driven robotics, cybersecurity, and agricultural technology**.
-
----
-
-## 🛠️ Languages & Tools
+## 🛠️ Technologies & Tools
 <p align="left"> 
   <a href="https://www.ros.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="40"/> </a> 
   <a href="https://gazebosim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Gazebo_sim_logo.png" alt="Gazebo" width="40" height="40"/> </a> 
