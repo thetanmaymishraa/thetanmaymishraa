@@ -27,7 +27,7 @@ I am an engineering student at **Vellore Institute of Technology, Vellore**, wit
 ---
 
 ## 📄 Research & Collaborations
-I actively collaborate with **professors from VIT Vellore & IIT Madras** on research projects focusing on **AI-driven robotics, cybersecurity, and precision agriculture**.
+I actively collaborate with **professors from VIT Vellore** on research projects focusing on **AI-driven robotics, cybersecurity, and many more**.
 
 ---
 
