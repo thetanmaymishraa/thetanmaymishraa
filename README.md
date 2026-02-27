@@ -1,59 +1,117 @@
-# Hi 👋, I'm Tanmay Mishra
+# Tanmay Mishra
 
-## 🚀 About Me
-I am an engineering student at **Vellore Institute of Technology, Vellore**, with a strong passion for **robotics, artificial intelligence (AI), and the Internet of Things (IoT)**. As the **Founder & Team Leader of CropSky**, I am committed to revolutionizing agriculture through **cutting-edge drone-based crop monitoring solutions**. My work integrates advanced **robotics, AI, and cybersecurity** to develop impactful real-world applications.
+Embedded Systems | Edge AI | Autonomous Sensing Platforms  
 
----
-
-## 🔭 Current Projects & Research
-- **Founder & Team Leader, CropSky** – Empowering small-scale farmers with **drone-based crop health monitoring**.
-- **Underground Inspection System** – Developing a **ROS2 & Gazebo-based tunnel inspection robot** for real-time hazard detection.
-- **SCARA Robot Digital Twin** – Simulating robotic arm movements using **ROS2 and Gazebo**.
-- **AI-Powered Cybercrime Detection** – Implementing machine learning models to detect and prevent cyber threats.
-- **Hardware-Accelerated Network Intrusion Detection System (NIDS)** – Integrating an **ESP32-based NIDS with Linux Ubuntu** to enhance cybersecurity.
-- **Resume Analysis Web Application** – Developing an **AI-powered tool** for job seekers to assess their resumes against job descriptions.
-- **Geofencing for Child Safety** – Researching and implementing **location-based security solutions** for enhanced child safety.
+B.Tech in Electronics and Communication Engineering  
+Vellore Institute of Technology, Vellore  
 
 ---
 
-## 🌱 Skills & Technologies
-- **Artificial Intelligence & Machine Learning**
-- **Robotics & Embedded Systems (Arduino, ESP32, Raspberry Pi)**
-- **ROS2 & Gazebo for Simulation & Digital Twins**
-- **Computer Vision with OpenCV & Deep Learning**
-- **IoT & Network Security**
-- **UI/UX Design & Video Editing**
+## Overview
+
+I work on the design and development of intelligent embedded systems that integrate sensing, communication and machine learning to address real-world challenges in robotics, UAV systems, cybersecurity and distributed monitoring environments.
+
+My work focuses on building hardware-driven intelligent platforms that enable autonomous decision-making at the edge.
 
 ---
 
-## 📄 Research & Collaborations
-I actively collaborate with **professors from VIT Vellore** on research projects focusing on **AI-driven robotics, cybersecurity, and many more**.
+## Technical Interests
+
+- Autonomous sensing systems  
+- Edge intelligence for embedded platforms  
+- UAV-based inspection systems  
+- AI-enabled cyber-physical infrastructure  
+- Real-time anomaly detection  
+- Communication-aware IoT systems  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: [thetanmaymishraa@gmail.com](mailto:thetanmaymishra@gmail.com)
-- 📞 Phone: +91 9516727469
-- 🌍 GitHub: [GitHub Portfolio](https://github.com/thetanmaymishraa)
-- 🔗 LinkedIn: [thetanmaymishra](https://linkedin.com/in/thetanmaymishra)
+## Professional Experience
+
+### Research Intern  
+**Indian Institute of Technology, Guwahati**
+
+Contributed to the development of low-power IoT communication systems using TI CC1350 platforms integrating IEEE 802.15.4 TSCH and LoRa protocols.  
+The work focused on enabling reliable and deterministic communication for distributed sensing environments.
 
 ---
 
-## 🛠️ Technologies & Tools
-<p align="left"> 
-  <a href="https://www.ros.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="40"/> </a> 
-  <a href="https://gazebosim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Gazebo_sim_logo.png" alt="Gazebo" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
-  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-</p>
+### Founder & Team Lead  
+**CropSky**
+
+Leading the development of AI-enabled UAV systems designed for precision monitoring applications.  
+The platform integrates aerial sensing, data analytics and decision-support mechanisms to improve operational efficiency in field environments.
 
 ---
 
-## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetanmaymishra&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" /></p>
+## Key Projects
+
+### UAV-Compatible LiDAR Inspection System  
+Developed an inspection payload integrating LiDAR, SLAM and multi-sensor fusion with edge AI-based anomaly detection.  
+The system enables real-time infrastructure monitoring using ROS2.
+
+---
+
+### STM32-Based Embedded Development Board  
+Designed a custom Cortex-M4 embedded hardware platform supporting multiple communication interfaces including UART, SPI, I2C and CAN for scalable real-time applications.
+
+---
+
+### Embedded Machine Learning Network Intrusion Detection System  
+Implemented a lightweight ML-based threat detection system deployed on ESP32 hardware for real-time network monitoring.
+
+---
+
+### AI-Based Smart Traffic Control System  
+Designed a vision-based adaptive traffic signal optimization framework using OpenCV for real-time vehicle detection.
+
+---
+
+### Developer Tooling – VS Code Extension  
+Built an extension providing real-time audio alerts for coding errors using the Diagnostics API.
+
+---
+
+## Publications
+
+- Development of a Monostatic Radar System for Target Detection and Range Estimation  
+- Graphene-Inspired THz Frequency-Reconfigurable Antenna for Biomedical Applications  
+
+---
+
+## Intellectual Property
+
+- Design Patent: Fractal-Based Octagonal Antenna (2024)
+
+---
+
+## Technical Competencies
+
+### Embedded Systems
+STM32 • ESP32 • Hardware-Software Integration  
+
+### Artificial Intelligence
+Machine Learning • Predictive Modeling • Edge Inference  
+
+### Robotics & Sensing
+ROS2 • SLAM • Sensor Fusion  
+
+### Tools & Platforms
+Linux • Git • Docker • KiCad • Cadence • MATLAB  
+
+---
+
+## Achievements
+
+- Second Prize – Reboot Hackathon (IEEE RAS)  
+- Second Prize – Roboverse Hackathon (IEEE RAS)  
+- Finalist – National Startup Competition  
+- Winner – Agrithon Innovation Challenge  
+
+---
+
+## Contact
+
+Email: thetanmaymishraa@gmail.com  
+LinkedIn: linkedin.com/in/thetanmaymishra  
+GitHub: github.com/thetanmaymishraa
